@@ -70,10 +70,10 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [x] API Primitives
   - [x] Create and Configure Basic Pods
 - [ ] __Configuration - 18%__
-  - [ ] Understand ConfigMaps
+  - [x] Understand ConfigMaps
   - [ ] Understand SecurityContexts
   - [ ] Define App Resource Requirements
-  - [ ] Create and Consume Secrets
+  - [x] Create and Consume Secrets
   - [ ] Understand Service Accounts
 - [ ] __Multi-Container Pods - 10%__
   - [ ] Design Patterns: Ambassador, Adapter, Sidecar
