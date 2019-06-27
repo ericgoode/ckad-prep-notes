@@ -71,7 +71,7 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [x] Create and Configure Basic Pods
 - [ ] __Configuration - 18%__
   - [x] Understand ConfigMaps
-  - [ ] Understand SecurityContexts
+  - [x] Understand SecurityContexts
   - [ ] Define App Resource Requirements
   - [x] Create and Consume Secrets
   - [ ] Understand Service Accounts
