@@ -66,15 +66,15 @@ I think the best approach is to fork this repo as a starting point for your stud
 # Current Progress
 The list below is based on the curriculum v1.0. Once you have mastered a section, check it off and move on to the next. You need to understand them ALL very well. The Core Concepts piece is kind of vague, but the others are defined well enough that it is easy to prepare for with a hands-on work through the tasks offered at kubernetes.io. The rest of this document follows this same outline of curriculum.
 
-- [x] __Core Concepts - 13%__
+- [x] __Core Concepts - 100%__
   - [x] API Primitives
   - [x] Create and Configure Basic Pods
-- [ ] __Configuration - 18%__
+- [x] __Configuration - 100%__
   - [x] Understand ConfigMaps
   - [x] Understand SecurityContexts
-  - [ ] Define App Resource Requirements
+  - [x] Define App Resource Requirements
   - [x] Create and Consume Secrets
-  - [ ] Understand Service Accounts
+  - [x] Understand Service Accounts
 - [ ] __Multi-Container Pods - 10%__
   - [ ] Design Patterns: Ambassador, Adapter, Sidecar
     - [ ] - Sidecar Pattern
@@ -91,8 +91,8 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [ ] Understand Container Logging
   - [ ] Understand Monitoring Application in Kubernetes
   - [ ] Understand Debugging in Kubernetes
-- [ ] __Services and Networking - 13%__
-  - [ ] Understand Services
+- [ ] __Services and Networking - 50%__
+  - [x] Understand Services
   - [ ] Basic Network Policies
 
 # Where to Practice
