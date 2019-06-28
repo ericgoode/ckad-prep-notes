@@ -75,10 +75,10 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [x] Define App Resource Requirements
   - [x] Create and Consume Secrets
   - [x] Understand Service Accounts
-- [ ] __Multi-Container Pods - 10%__
-  - [ ] Design Patterns: Ambassador, Adapter, Sidecar
-    - [ ] - Sidecar Pattern
-    - [ ] - Init Containers
+- [x] __Multi-Container Pods - 100%__
+  - [x] Design Patterns: Ambassador, Adapter, Sidecar
+    - [x] - Sidecar Pattern
+    - [x] - Init Containers
 - [ ] __Pod Design - 20%__
   - [ ] Using Labels, Selectors, and Annotations
   - [ ] Understand Deployments and Rolling Updates
