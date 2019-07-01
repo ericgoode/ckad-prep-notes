@@ -84,8 +84,8 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [x] Understand Deployments and Rolling Updates
   - [x] Understand Deployment Rollbacks
   - [x] Understand Jobs and CronJobs
-- [ ] - __State Persistence - 8%__
-  - [ ] - Understand PVCs for Storage
+- [x] - __State Persistence - 8%__
+  - [x] - Understand PVCs for Storage
 - [ ] __Observability - 18%__
   - [ ] Liveness and Readiness Probes
   - [ ] Understand Container Logging
