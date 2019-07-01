@@ -83,7 +83,7 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [x] Using Labels, Selectors, and Annotations
   - [x] Understand Deployments and Rolling Updates
   - [x] Understand Deployment Rollbacks
-  - [ ] Understand Jobs and CronJobs
+  - [x] Understand Jobs and CronJobs
 - [ ] - __State Persistence - 8%__
   - [ ] - Understand PVCs for Storage
 - [ ] __Observability - 18%__
